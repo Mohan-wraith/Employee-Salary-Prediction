@@ -19,9 +19,8 @@ This project is deployed as a live web application using Streamlit.
 
 **[Click here to view the live app](YOUR_STREAMLIT_APP_LINK_HERE)**
 
-<p align="center">
-  <img src="YOUR_SCREENSHOT_LINK_HERE" alt="Streamlit App Screenshot" width="700">
-</p>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f0b1c3c-161f-4246-8f4e-3f9ca2f6f385" />
+
 
 *(**Note:** To get these links, you can deploy your app for free on [Streamlit Community Cloud](https://streamlit.io/cloud). Just upload your `app.py`, `simple_model.pkl`, and `simple_scaler.pkl` files to a new GitHub repo and link it to Streamlit.)*
 
