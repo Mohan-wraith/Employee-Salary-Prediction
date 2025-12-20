@@ -17,7 +17,7 @@ The project includes two main components:
 
 This project is deployed as a live web application using Streamlit.
 
-**[Click here to view the live app](YOUR_STREAMLIT_APP_LINK_HERE)**
+**[Click here to view the live app](https://employee-salary-prediction-6.streamlit.app/)**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f0b1c3c-161f-4246-8f4e-3f9ca2f6f385" />
 
